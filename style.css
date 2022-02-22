@@ -1,0 +1,224 @@
+body {
+ background-color: hsl(210, 46%, 95%);
+ position: relative;
+}
+
+.div1 {
+position: absolute;
+width: 550px;
+height: 250px;
+background-color: hsl(263, 55%, 52%);
+background-image: url("images/bg-pattern-quotation.svg");
+background-repeat: no-repeat;
+background-position: 350px 0px;
+border-radius: 10px;
+top: 150px;
+left: 150px;
+
+
+}
+
+.div2 {
+position: absolute;
+width: 295px;
+height: 250px;
+background-color: hsl(217, 19%, 35%);
+border-radius: 10px;
+top: 150px;
+left: 730px;
+}
+
+.div3 {
+position: absolute;
+width: 295px;
+height: 250px;
+background-color: white;
+border-radius: 10px;
+top: 430px;
+left: 150px;
+}
+
+.div4 {
+position: absolute;
+width: 550px;
+height: 250px;
+background-color: hsl(219, 29%, 14%);
+border-radius: 10px;
+top: 430px;
+left: 475px;
+}
+
+.div5 {
+position: absolute;
+width: 295px;
+height: 530px;
+background-color: hsl(0, 0%, 100%);
+border-radius: 10px;
+top: 150px;
+right: 150px;
+}
+
+.first {
+  position: relative;
+}
+
+.second {
+  position: relative;
+}
+
+.third {
+  position: relative;
+}
+
+.fourth {
+  position: relative;
+}
+
+.fifth {
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  font-size: 17px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  top: 70px;
+  left: 30px;
+  right: 30px;
+}
+
+h2 {
+  position: absolute;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  top: 25px;
+  left: 80px;
+  font-size: 10px;
+}
+
+h3 {
+  position: absolute;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  top: 35px;
+  left: 80px;
+  font-size: 10px;
+}
+
+p {
+  position: absolute;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  top: 130px;
+  left: 30px;
+  font-size: 13px;
+  right: 30px;
+}
+
+
+.h1-1 {
+  position: absolute;
+  color: hsl(0, 0%, 100%);
+}
+
+.h1-2 {
+  position: absolute;
+  color: hsl(0, 0%, 100%);
+}
+
+.h1-3 {
+  position: absolute;
+}
+
+.h1-4 {
+  position: absolute;
+  color: hsl(0, 0%, 100%);
+}
+
+.h1-5 {
+  position: absolute;
+}
+
+.h2-1 {
+  position: absolute;
+  color: hsl(0, 0%, 100%);
+}
+
+.h2-2 {
+  position: absolute;
+  color: hsl(0, 0%, 100%);
+}
+
+.h2-3 {
+  position: absolute;
+}
+
+.h2-4 {
+  position: absolute;
+  color: hsl(0, 0%, 100%);
+}
+
+.h2-5 {
+  position: absolute;
+}
+
+.h3-1 {
+  position: absolute;
+  color: hsl(0, 0%, 50%);
+}
+
+.h3-2 {
+  position: absolute;
+  color:  hsl(0, 0%, 50%);
+}
+
+.h3-3 {
+  position: absolute;
+  color: hsl(0, 0%, 50%);
+}
+
+.h3-4 {
+  position: absolute;
+  color: hsl(0, 0%, 50%);
+}
+
+.h3-5 {
+  position: absolute;
+  color: hsl(0, 0%, 50%);
+}
+
+.p1 {
+  position: absolute;
+  color: hsl(0, 0%, 70%);
+  top: 140px;
+}
+
+.p2 {
+  position: absolute;
+  color: hsl(0, 0%, 70%);
+}
+
+.p3 {
+  position: absolute;
+  color: hsl(0, 0%, 70%);
+}
+
+.p4 {
+  position: absolute;
+  color: hsl(0, 0%, 70%);
+  top: 140px;
+
+}
+
+.p5 {
+  position: absolute;
+  color: hsl(0, 0%, 70%);
+  right: 80px;
+}
+img {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid white;
+  width: 30px;
+  height: 30px;
+  top: 30px;
+  left: 30px;
+
+}
