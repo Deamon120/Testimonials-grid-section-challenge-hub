@@ -5,8 +5,8 @@ body {
 
 .div1 {
 position: absolute;
-width: 550px;
-height: 250px;
+width: 480px;
+height: 270px;
 background-color: hsl(263, 55%, 52%);
 background-image: url("images/bg-pattern-quotation.svg");
 background-repeat: no-repeat;
@@ -20,38 +20,38 @@ left: 150px;
 
 .div2 {
 position: absolute;
-width: 295px;
-height: 250px;
+width: 260px;
+height: 270px;
 background-color: hsl(217, 19%, 35%);
 border-radius: 10px;
 top: 150px;
-left: 730px;
+left: 645px;
 }
 
 .div3 {
 position: absolute;
-width: 295px;
-height: 250px;
+width: 260px;
+height: 270px;
 background-color: white;
 border-radius: 10px;
-top: 430px;
+top: 450px;
 left: 150px;
 }
 
 .div4 {
 position: absolute;
-width: 550px;
-height: 250px;
+width: 480px;
+height: 270px;
 background-color: hsl(219, 29%, 14%);
 border-radius: 10px;
-top: 430px;
-left: 475px;
+top: 450px;
+left: 425px;
 }
 
 .div5 {
 position: absolute;
-width: 295px;
-height: 530px;
+width: 260px;
+height: 570px;
 background-color: hsl(0, 0%, 100%);
 border-radius: 10px;
 top: 150px;
@@ -193,6 +193,7 @@ p {
 .p2 {
   position: absolute;
   color: hsl(0, 0%, 70%);
+  top: 140px;
 }
 
 .p3 {
@@ -210,7 +211,8 @@ p {
 .p5 {
   position: absolute;
   color: hsl(0, 0%, 70%);
-  right: 80px;
+  right: 65px;
+  top: 140px;
 }
 img {
   position: absolute;
